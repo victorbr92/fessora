@@ -1,8 +1,9 @@
 ## TODOLIST:
 
 ### 1st Phase (Process)
-- Create process interface on CLI
-- Process the PDF into string
+- ~~Create process interface on CLI~~
+- Download PDFs and save in a file
+- Process the PDF
 - Associate with the first default embeeding model and process embeedings
 - Store the data into a NN store (no Vector DB needed)
 
